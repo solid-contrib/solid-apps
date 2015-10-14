@@ -6,6 +6,7 @@ List of apps built on Solid
  - [Profile editor](https://github.com/linkeddata/profile-editor)
  - [Cimba](https://github.com/linkeddata/cimba)
  - [Meeting scheduler](https://github.com/linkeddata/app-schedule)
+ - [Pad - collaborative notes](https://github.com/timbl/pad)
  - [Contacts manager](https://github.com/linkeddata/contacts) (AngularJS, mobile friendly)
  - [mzereba's Contacts manager](https://github.com/mzereba/contacts)
  - [Todo list](https://github.com/mzereba/todo)
