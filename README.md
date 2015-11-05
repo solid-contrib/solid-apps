@@ -10,5 +10,7 @@ List of apps built on Solid
  - [Contacts manager (for vCards)](https://github.com/linkeddata/contacts) (AngularJS, mobile friendly)
  - [mzereba's Contacts manager](https://github.com/mzereba/contacts)
  - [Todo list](https://github.com/mzereba/todo)
- - [Hello World](https://github.com/melvincarvalho/helloworld)
+ - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
+ - [Solid Clip (demo app)](https://github.com/melvincarvalho/clip/)
+ - [Solid Video (demo app)](https://github.com/melvincarvalho/video/)
  - Add yours!
