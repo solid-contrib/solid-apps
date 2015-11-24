@@ -1,5 +1,7 @@
 # solid-apps
-List of apps built on Solid
+[![](https://img.shields.io/badge/project-Solid-7C4DFF.svg?style=flat-square)](https://github.com/solid/solid)
+
+> List of apps built on Solid
 
 ## Applications
  - [Warp (file browser)](https://github.com/linkeddata/warp)
