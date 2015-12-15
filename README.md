@@ -15,4 +15,5 @@
  - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
  - [Solid Clip (demo app)](https://github.com/melvincarvalho/clip/)
  - [Solid Video (demo app)](https://github.com/melvincarvalho/video/)
+ - [dokieli (authoring/annotations)](https://github.com/linkeddata/dokieli)
  - Add yours!
