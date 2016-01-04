@@ -16,4 +16,6 @@
  - [Solid Clip (demo app)](https://github.com/melvincarvalho/clip/)
  - [Solid Video (demo app)](https://github.com/melvincarvalho/video/)
  - [dokieli (authoring/annotations)](https://github.com/linkeddata/dokieli)
+ - [Plume (blogging)](https://github.com/deiu/solid-plume/)
+ - [Inbox (notifications/messages)](https://github.com/solid/solid-inbox/)
  - Add yours!
