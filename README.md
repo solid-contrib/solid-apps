@@ -38,9 +38,12 @@ List of apps built on the
 - [x] Signup app / initial profile creation.
     ([solid-signup](https://github.com/solid/solid-signup))
 
+- [ ] People/Group Picker + ACL Manager
+
 - [ ] Welcome app - when users first sign up for a WebID account, they are
     redirected to this app. Provides links/docs/introduction to the Solid
-    platform
+    platform.
+    (see [solid/solid/issues/18](https://github.com/solid/solid/issues/18))
 
 - [x] Profile editor
     [profile-editor](https://github.com/linkeddata/profile-editor)
@@ -53,3 +56,34 @@ List of apps built on the
 
 ### General Wishlist
 Wishlist items/suggestions go here.
+
+* Friends app (add/remove w QR codes)
+
+* Calendar app
+
+* Consensus app - create decisions (similar to a Poll),
+  invite people/teammates to participate,
+  comments and discussion, vote on the outcome (simple majority or
+  runoff voting)
+
+* Presence app (online/offline). (possibly combine with Check-in app below)
+
+* Check-in/Location app (with GPS annotations)
+
+* Chat app
+
+* Photo Album app (comments + likes + notifications)
+
+* Pastebin clone
+
+* File share app (Dropbox/public folder type thing, or Pastebin/text share)
+
+* Ephemeral/temporary storage accounts
+
+* Backup Manager (tar/gzip and download your account's data, or S3/Glacier)
+
+* Disqus clone
+
+* Collection Manager (books, movies, games, etc)
+
+* Hospitality Preference (allergies, dietary restrictions, etc)
