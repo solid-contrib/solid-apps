@@ -87,3 +87,5 @@ Wishlist items/suggestions go here.
 * Collection Manager (books, movies, games, etc)
 
 * Hospitality Preference (allergies, dietary restrictions, etc)
+
+* Bookmarking (bookmark a URI, and allow tagging)
