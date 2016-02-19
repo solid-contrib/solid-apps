@@ -30,6 +30,8 @@ List of apps built on the
 - [Plume](https://github.com/deiu/solid-plume/) client side blogging platform
 - [Timeline](https://github.com/solid-social/timeline) decentralized social
     network
+- [Markdown Editor](https://github.com/melvincarvalho/markdown-editor) markdown
+    editor
 
 ## App Wishlist
 
