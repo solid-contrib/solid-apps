@@ -33,6 +33,11 @@ List of apps built on the
 - [Markdown Editor](https://github.com/melvincarvalho/markdown-editor) markdown
     editor
 
+## Games
+
+- [2048](http://github.com/webize/2048) Tile based puzzle game 2048
+
+
 ## App Wishlist
 
 ### Core Solid Apps Wishlist
