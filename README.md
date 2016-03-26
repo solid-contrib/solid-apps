@@ -96,3 +96,5 @@ Wishlist items/suggestions go here.
 * Hospitality Preference (allergies, dietary restrictions, etc)
 
 * Bookmarking (bookmark a URI, and allow tagging)
+
+* Clone of 750words.com
