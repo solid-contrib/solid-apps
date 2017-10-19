@@ -8,10 +8,8 @@ List of apps built on the
 - [Contacts manager (for vCards)](https://github.com/linkeddata/contacts)
     (AngularJS, mobile friendly)
 - [Inbox](https://github.com/solid/solid-inbox/) notifications/messages app
-- [mzereba's Contacts manager](https://github.com/mzereba/contacts)
 - [Solid Signup app](https://github.com/solid/solid-signup) for creating
     WebID accounts with Solid-compatible providers
-- [Todo list](https://github.com/mzereba/todo)
 - [Warp](https://github.com/linkeddata/warp) file browser
 - [WebID Profile editor](https://github.com/linkeddata/profile-editor)
 
