@@ -98,3 +98,5 @@ Wishlist items/suggestions go here.
 * Bookmarking (bookmark a URI, and allow tagging)
 
 * Clone of 750words.com
+
+* Clone of [jspaint](https://github.com/1j01/jspaint)
