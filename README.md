@@ -100,3 +100,7 @@ Wishlist items/suggestions go here.
 * Clone of 750words.com
 
 * Clone of [jspaint](https://github.com/1j01/jspaint)
+
+* Clone mind map app : https://tobloef.com/text2mindmap/
+
+* Clone markdown app : https://tobloef.com/markant/
