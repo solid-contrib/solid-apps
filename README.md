@@ -104,3 +104,5 @@ Wishlist items/suggestions go here.
 * Clone mind map app : https://tobloef.com/text2mindmap/
 
 * Clone markdown app : https://tobloef.com/markant/
+
+* Presentations app e.g. https://github.com/tmcw/big/blob/gh-pages/docs/user-guide.md
