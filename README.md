@@ -66,7 +66,7 @@ Wishlist items/suggestions go here.
 
 * Friends app (add/remove w QR codes)
 
-* Calendar app
+* Calendar app ( [example1](http://ui.toast.com/tui-calendar/) )
 
 * Consensus app - create decisions (similar to a Poll),
   invite people/teammates to participate,
