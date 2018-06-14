@@ -106,3 +106,5 @@ Wishlist items/suggestions go here.
 * Clone markdown app : https://tobloef.com/markant/
 
 * Presentations app e.g. https://github.com/tmcw/big/blob/gh-pages/docs/user-guide.md
+
+* News app e.g. RSS aggregator
