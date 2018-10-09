@@ -14,9 +14,7 @@ List of apps built on the
 - [WebID Profile editor](https://github.com/linkeddata/profile-editor)
 
 ## Sample/Tutorial Apps
-- [Solid Clip (demo app)](https://github.com/melvincarvalho/clip/)
 - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
-- [Solid Video (demo app)](https://github.com/melvincarvalho/video/)
 
 ## Social Media / Collaborative Apps
 - [Cimba](https://github.com/linkeddata/cimba) microblogging app
