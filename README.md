@@ -15,6 +15,7 @@ List of apps built on the
 
 ## Sample/Tutorial Apps
 - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
+- [Bookmarking](https://github.com/mark-book/markbook/blob/gh-pages/README.md)
 
 ## Social Media / Collaborative Apps
 - [Cimba](https://github.com/linkeddata/cimba) microblogging app
@@ -92,8 +93,6 @@ Wishlist items/suggestions go here.
 * Collection Manager (books, movies, games, etc)
 
 * Hospitality Preference (allergies, dietary restrictions, etc)
-
-* Bookmarking (bookmark a URI, and allow tagging)
 
 * Clone of 750words.com
 
