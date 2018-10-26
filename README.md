@@ -16,6 +16,7 @@ List of apps built on the
 ## Sample/Tutorial Apps
 - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
 - [Bookmarking](https://github.com/mark-book/markbook/blob/gh-pages/README.md)
+- [Tadanime](https://github.com/pheyvaer/tadanime) ([live version](https://pheyvaer.github.io/tadanime/index.html)) app to rate your anime series and movies
 
 ## Social Media / Collaborative Apps
 - [Cimba](https://github.com/linkeddata/cimba) microblogging app
