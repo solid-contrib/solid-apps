@@ -10,6 +10,7 @@ List of apps built on the
 - [Inbox](https://github.com/solid/solid-inbox/) notifications/messages app
 - [Solid Signup app](https://github.com/solid/solid-signup) for creating
     WebID accounts with Solid-compatible providers
+- [Solid IDE](https://jeff-zucker.github.io/solid-ide/?url=https://solside.solid.community/public/samples/index.html) file browser and IDE
 - [Warp](https://github.com/linkeddata/warp) file browser
 - [WebID Profile editor](https://github.com/linkeddata/profile-editor)
 
