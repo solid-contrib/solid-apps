@@ -32,6 +32,14 @@ List of apps built on the
     editor
 - [Twee-Fi](https://github.com/factsmission/twee-fi) review claims
     and rate trustworthyness of tweets [try it out](https://factsmission.github.io/twee-fi/)
+- [Spoggy](http://spoggy.herokuapp.com/) Easy create / view rdf graphs , export to POD as JSON or TTL
+   + If nothing appear, wait 15 s & refresh for the server to awake
+   + [source](https://github.com/scenaristeur/heroku-spoggy/)
+   + [tutorial](https://www.youtube.com/watch?v=5BHIoRyPIWc&list=PLmnJTs7YASPO61OzacKf4atmLObMFMD3m)
+   + import data from a POD : [http://spoggy.herokuapp.com/?source=https://smag0.solid.community/public/spoggy/Spoggy_features.json](http://spoggy.herokuapp.com/?source=https://smag0.solid.community/public/spoggy/Spoggy_features.json)
+   + or look in menu/Solid
+   + realtime collaborative graph (menu / collaboratif)
+   ![view Spoggy](https://raw.githubusercontent.com/scenaristeur/heroku-spoggy/master/public/doc/Donner_du_sens_ia.png)
 
 ## Games
 
