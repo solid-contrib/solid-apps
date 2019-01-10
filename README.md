@@ -13,6 +13,7 @@ List of apps built on the
 - [Solid IDE](https://jeff-zucker.github.io/solid-ide/?url=https://solside.solid.community/public/samples/index.html) file browser and IDE
 - [Warp](https://github.com/linkeddata/warp) file browser
 - [WebID Profile editor](https://github.com/linkeddata/profile-editor)
+- [Solid Focus](https://noeldemartin.github.io/solid-focus/) task manager app
 
 ## Sample/Tutorial Apps
 - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
