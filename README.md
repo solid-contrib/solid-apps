@@ -36,6 +36,7 @@ List of apps built on the
 ## Games
 
 - [2048](http://github.com/webize/2048) Tile based puzzle game 2048
+- [Solid Chess](https://github.com/pheyvaer/solid-chess) Chess game for the browser and terminal
 
 
 ## App Wishlist
