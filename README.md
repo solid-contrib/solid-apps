@@ -18,6 +18,7 @@ List of apps built on the
 ## Sample/Tutorial Apps
 - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
 - [Bookmarking](https://github.com/mark-book/markbook/blob/gh-pages/README.md)
+- [Tadanime](https://github.com/pheyvaer/tadanime) ([live version](https://pheyvaer.github.io/tadanime/index.html)) app to rate your anime series and movies
 
 ## Social Media / Collaborative Apps
 - [Cimba](https://github.com/linkeddata/cimba) microblogging app
@@ -37,6 +38,7 @@ List of apps built on the
 ## Games
 
 - [2048](http://github.com/webize/2048) Tile based puzzle game 2048
+- [Solid Chess](https://github.com/pheyvaer/solid-chess) Chess game for the browser and terminal
 
 
 ## App Wishlist
