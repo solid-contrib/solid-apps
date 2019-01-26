@@ -5,6 +5,7 @@ List of apps built on the
 [Solid platform](https://github.com/solid/solid-spec). Add yours!
 
 ## Personal Data Apps
+- [Find Solid Pods](https://findsolidpods.com)
 - [Contacts manager (for vCards)](https://github.com/linkeddata/contacts)
     (AngularJS, mobile friendly)
 - [Inbox](https://github.com/solid/solid-inbox/) notifications/messages app
