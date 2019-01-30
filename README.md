@@ -15,7 +15,7 @@ List of apps built on the
 - [Inbox](https://github.com/solid/solid-inbox/) notifications/messages app
 - [Solid Signup app](https://github.com/solid/solid-signup) for creating
     WebID accounts with Solid-compatible providers
-- Solid IDE [live](https://jeff-zucker.github.io/solid-ide/) [repo](https://github.com/jeff-zucker/solid-ide) file manager and IDE
+- [Solid IDE](https://jeff-zucker.github.io/solid-ide/) file manager and IDE
 - [Solid Shell](https://github.com/jeff-zucker/solid-shell) command-line tool and interactive shell
 - [Warp](https://github.com/linkeddata/warp) file browser
 - [WebID Profile editor](https://github.com/linkeddata/profile-editor)
@@ -25,7 +25,7 @@ List of apps built on the
 - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
 - [Bookmarking](https://github.com/mark-book/markbook/blob/gh-pages/README.md)
 - [Tadanime](https://github.com/pheyvaer/tadanime) ([live version](https://pheyvaer.github.io/tadanime/index.html)) app to rate your anime series and movies
-- SPARQL Fiddle [live](https://jeff-zucker.github.io/solid-shell/) [repo](https://jeff-zucker.github.io/sparql-fiddle/) online fiddle to run SPARQL against Solid Pods
+- [SPARQL Fiddle](https://jeff-zucker.github.io/solid-shell/) online fiddle to run SPARQL against Solid Pods
 
 ## Social Media / Collaborative Apps
 - [Cimba](https://github.com/linkeddata/cimba) microblogging app
