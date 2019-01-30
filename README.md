@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/project-Solid-7C4DFF.svg?style=flat-square)](https://github.com/solid/solid)
 
 List of apps built on the
-[Solid platform](https://github.com/solid/solid-spec). [Add yours!](How to add an app.md)
+[Solid platform](https://github.com/solid/solid-spec). <b>[Add yours!](How to add an app.md)</b>
 
 ## Listing Apps
 
