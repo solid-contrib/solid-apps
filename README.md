@@ -25,7 +25,7 @@ List of apps built on the
 - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
 - [Bookmarking](https://github.com/mark-book/markbook/blob/gh-pages/README.md)
 - [Tadanime](https://github.com/pheyvaer/tadanime) ([live version](https://pheyvaer.github.io/tadanime/index.html)) app to rate your anime series and movies
-- [SPARQL Fiddle](https://jeff-zucker.github.io/solid-shell/) online fiddle to run SPARQL against Solid Pods
+- [SPARQL Fiddle](https://jeff-zucker.github.io/sparql-fiddle/) online fiddle to run SPARQL against Solid Pods
 
 ## Social Media / Collaborative Apps
 - [Cimba](https://github.com/linkeddata/cimba) microblogging app
