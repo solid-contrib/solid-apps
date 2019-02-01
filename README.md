@@ -17,6 +17,8 @@ List of apps built on the
     WebID accounts with Solid-compatible providers
 - [Solid IDE](https://jeff-zucker.github.io/solid-ide/) file manager and IDE
 - [Solid Shell](https://github.com/jeff-zucker/solid-shell) command-line tool and interactive shell
+- [Solid authorization Widget](https://github.com/bourgeoa/solid-file-widget) component for webapp 
+- [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki/) with Solid syncadaptor [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
 - [Warp](https://github.com/linkeddata/warp) file browser
 - [WebID Profile editor](https://github.com/linkeddata/profile-editor)
 - [Solid Focus](https://noeldemartin.github.io/solid-focus/) task manager app
