@@ -12,10 +12,12 @@ List of apps built on the
 
 - [Contacts manager (for vCards)](https://github.com/linkeddata/contacts)
     (AngularJS, mobile friendly)
+- [File Extractor for PODs](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) extract files from POD data
 - [Inbox](https://github.com/solid/solid-inbox/) notifications/messages app
 - [Solid Signup app](https://github.com/solid/solid-signup) for creating
     WebID accounts with Solid-compatible providers
 - [Solid IDE](https://jeff-zucker.github.io/solid-ide/) file manager and IDE
+- [Solid POD Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) submit online form data to PODs
 - [Solid Shell](https://github.com/jeff-zucker/solid-shell) command-line tool and interactive shell
 - [Solid authorization Widget](https://github.com/bourgeoa/solid-file-widget) component for webapp 
 - [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki/) with Solid syncadaptor [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
