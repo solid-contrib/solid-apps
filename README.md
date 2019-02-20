@@ -17,7 +17,6 @@ List of apps built on the
 - [Solid Signup app](https://github.com/solid/solid-signup) for creating
     WebID accounts with Solid-compatible providers
 - [Solid IDE](https://jeff-zucker.github.io/solid-ide/) file manager and IDE
-- [Solid POD Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) submit online form data to PODs
 - [Solid Shell](https://github.com/jeff-zucker/solid-shell) command-line tool and interactive shell
 - [Solid authorization Widget](https://github.com/bourgeoa/solid-file-widget) component for webapp 
 - [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki/) with Solid syncadaptor [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
@@ -51,6 +50,13 @@ List of apps built on the
 - [2048](http://github.com/webize/2048) Tile based puzzle game 2048
 - [Solid Chess](https://github.com/pheyvaer/solid-chess) Chess game for the browser and terminal
 
+## Form generation
+
+- [Solid POD Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) :moneybag: submit online form data to PODs using FormRouter.com
+
+## Explanation of labels (emojis)
+
+- :moneybag: Application is part of a paid service
 
 ## App Wishlist
 
