@@ -29,6 +29,7 @@ List of apps built on the
 - [Tadanime](https://github.com/pheyvaer/tadanime) ([live version](https://pheyvaer.github.io/tadanime/index.html)) app to rate your anime series and movies
 - [SPARQL Fiddle](https://jeff-zucker.github.io/sparql-fiddle/) online fiddle to run SPARQL against Solid Pods
 
+
 ## Social Media / Collaborative Apps
 - [Cimba](https://github.com/linkeddata/cimba) microblogging app
 - [dokieli](https://github.com/linkeddata/dokieli)
@@ -48,6 +49,11 @@ List of apps built on the
 
 - [2048](http://github.com/webize/2048) Tile based puzzle game 2048
 - [Solid Chess](https://github.com/pheyvaer/solid-chess) Chess game for the browser and terminal
+
+## Experimental
+
+- [RDF-iOS](https://github.com/wrmack/RDF-iOS) demonstrates accessing rdflib.js in iOS 
+- [Get tokens](https://github.com/wrmack/Get-tokens) demonstrates token exchanges in a native iOS app 
 
 
 ## App Wishlist
