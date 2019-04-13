@@ -4,56 +4,55 @@
 List of apps built on and/or implementing the [Solid platform](https://github.com/solid/solid-spec). 
 [Add yours!](https://github.com/solid/solid-apps/blob/master/How-to-add-an-App.md)
 
-## Listing Apps
+## Registration / Sign up / Identity
 
 - [Find Solid Pods](https://findsolidpods.com)
+- [OpenLink YouID](http://youid.openlinksw.com) -- Identity and Credentials Doc Generator; creates X.509 
+  cert, saves WebID-Profile Doc (in any Solid Pod), and sets up the relations required for WebID-TLS and 
+  WebID-TLS+Delegation
 
-## Personal Data Apps
+## Developer tools / file managers
 
-- [Contacts manager (for vCards)](https://github.com/linkeddata/contacts) --
-    (AngularJS, mobile friendly)
-- [Inbox](https://github.com/solid/solid-inbox/) -- notifications/messages app
+- [Solid IDE](https://jeff-zucker.github.io/solid-ide/) -- file manager and IDE
+- [Solid Shell](https://github.com/jeff-zucker/solid-shell) -- command-line tool and interactive shell
 - [OpenLink Structured Data Editor (OSDE)](http://osde.openlinksw.com) -- RDF Editor with a "Save As" feature that 
   can save content to any Solid Pod
 - [OpenLink Structured Data Sniffer (OSDS)](http://osds.openlinksw.com) -- extracts Metadata (in a variety of notations) 
   from HTML docs and enables storage to any Solid Pod via "Save As" feature
-- [OpenLink YouID](http://youid.openlinksw.com) -- Identity and Credentials Doc Generator; creates X.509 
-  cert, saves WebID-Profile Doc (in any Solid Pod), and sets up the relations required for WebID-TLS and 
-  WebID-TLS+Delegation
+- [Warp](https://github.com/linkeddata/warp) -- file browser
+
+## Libraries & components
+
 - [Solid authorization Widget](https://github.com/bourgeoa/solid-file-widget) -- component for webapp 
+
+## Personal Data Apps
+
 - [Solid Focus](https://noeldemartin.github.io/solid-focus/) -- task manager app
-- [Solid IDE](https://jeff-zucker.github.io/solid-ide/) -- file manager and IDE
-- [Solid Shell](https://github.com/jeff-zucker/solid-shell) -- command-line tool and interactive shell
-- [Solid Signup app](https://github.com/solid/solid-signup) -- for creating
-    WebID accounts with Solid-compatible providers
 - [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki/) -- with Solid syncadaptor 
   [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
-- [Warp](https://github.com/linkeddata/warp) -- file browser
-- [WebID Profile editor](https://github.com/linkeddata/profile-editor)
+- [Markbook](https://github.com/mark-book/markbook/blob/gh-pages/README.md) -- Bookmarking
 
 ## Sample/Tutorial Apps
-- [Markbook](https://github.com/mark-book/markbook/blob/gh-pages/README.md) -- Bookmarking
+
 - [Solid Hello World (demo app)](https://github.com/melvincarvalho/helloworld/)
 - [SPARQL Fiddle](https://jeff-zucker.github.io/sparql-fiddle/) -- online fiddle to run SPARQL against Solid Pods
-- [Tadanime](https://github.com/pheyvaer/tadanime) -- app to rate your anime series and movies; 
-  ([live instance](https://pheyvaer.github.io/tadanime/index.html)) 
 
-## Social Media / Collaborative Apps
-- [Cimba](https://github.com/linkeddata/cimba) -- microblogging app
+## Social Media / Blogging / Collaborative Apps
+
 - [dokieli](https://github.com/linkeddata/dokieli) --
     decentralized article authoring, annotation, and social notification tool
-- [Markdown Editor](https://github.com/melvincarvalho/markdown-editor) -- markdown
-    editor
-- [Meeting scheduler](https://github.com/linkeddata/app-schedule) --
-    (similar to [Doodle](http://doodle.com/))
-- [OpenLink Smart Data Bot (OSDB)](http://osdb.openlinksw.com) -- service that distills Actions from API Documentation 
-  constructed using RDF or OpenAPI; supports WebID-OIDC for authentication
-- [Pad](https://github.com/timbl/pad) -- collaborative notes
-- [Plume](https://github.com/deiu/solid-plume/) -- client side blogging platform
-- [Timeline](https://github.com/solid-social/timeline) -- decentralized social
-    network
+- [Plume](https://github.com/theWebalyst/solid-plume/) -- client side blogging platform. [How to deploy](https://thewebalyst.solid.community/plume/?post=https%3A%2F%2Fthewebalyst.solid.community%2Fpublic%2Fposts%2F%2F1555171264494-how-to-deploy-plume-blog-on-your-solid-pod.ttl%23%23%23%23%23%23%23%23%23%23%23%23%23%23)
 - [Twee-Fi](https://github.com/factsmission/twee-fi) -- review claims
     and rate trustworthyness of tweets [try it out](https://factsmission.github.io/twee-fi/)
+
+## Smart agents / bots
+
+- [OpenLink Smart Data Bot (OSDB)](http://osdb.openlinksw.com) -- service that distills Actions from API Documentation 
+  constructed using RDF or OpenAPI; supports WebID-OIDC for authentication
+
+<!-- TODO: reviewed until here -->
+
+
 - [URIBurner](http://linkeddata.uriburner.com/sparql) -- SPARQL Query Service Endpoint that supports WebID-OIDC 
   for authenticating WebIDs en route to functionality that isn't granted to the un-authenticated Public; e.g., 
   "generating descriptions of any Web-Accessible Document in RDF, and publishing said description in 5-Star 
@@ -69,6 +68,24 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Get tokens](https://github.com/wrmack/Get-tokens) -- demonstrates token exchanges in a native iOS app 
 - [RDF-iOS](https://github.com/wrmack/RDF-iOS) -- demonstrates accessing `rdflib.js` in iOS 
 
+## Apps that need updating
+
+- [Solid Signup app](https://github.com/solid/solid-signup) -- for creating
+    WebID accounts with Solid-compatible providers. databox.me is currently not accepting new users
+- [Contacts manager (for vCards)](https://github.com/linkeddata/contacts) --
+      (AngularJS, mobile friendly). Needs updating in order to work with the currently deployed version of node solid server
+- [Inbox](https://github.com/solid/solid-inbox/) -- notifications/messages app. Does not support WebID-OIDC
+- [WebID Profile editor](https://github.com/linkeddata/profile-editor) -- Does not support WebID-OIDC
+- [Tadanime](https://github.com/pheyvaer/tadanime) -- app to rate your anime series and movies; ([live instance](https://pheyvaer.github.io/tadanime/index.html))  Does not find data, unclear how to use it
+- [Cimba](https://github.com/linkeddata/cimba) -- microblogging app. Not updated for years and not working with current servers.
+- [Markdown Editor](https://github.com/melvincarvalho/markdown-editor) -- markdown
+    editor; Login not working
+- [Meeting scheduler](https://github.com/linkeddata/app-schedule) --
+    (similar to [Doodle](http://doodle.com/)); abandoned
+- [Pad](https://github.com/timbl/pad) -- collaborative notes; not updated for years
+- [Timeline](https://github.com/solid-social/timeline) -- decentralized social
+    network; only works with WebID-OIDC
+    
 ## App Wishlist
 
 ### Core Solid Apps Wishlist
