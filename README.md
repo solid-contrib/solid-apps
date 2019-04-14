@@ -23,7 +23,7 @@ List of apps built on the
 - [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki/) with Solid syncadaptor [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
 - [Warp](https://github.com/linkeddata/warp) file browser
 - [WebID Profile editor](https://github.com/linkeddata/profile-editor)
-- [Solid Filemanager](https://otto-aa.github.io/solid-filemanager/build/) Simple file manager
+- [Solid Filemanager](https://otto-aa.github.io/solid-filemanager/) Simple file manager
 - [Solid Focus](https://noeldemartin.github.io/solid-focus/) task manager app
 
 ## Sample/Tutorial Apps
