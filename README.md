@@ -20,6 +20,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [OpenLink Structured Data Sniffer (OSDS)](http://osds.openlinksw.com) -- extracts Metadata (in a variety of notations) 
   from HTML docs and enables storage to any Solid Pod via "Save As" feature
 - [Warp](https://github.com/linkeddata/warp) -- file browser
+- [File Extractor for PODs](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) extract files from POD data
 
 ## Libraries & components
 
@@ -31,6 +32,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki/) -- with Solid syncadaptor 
   [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
 - [Markbook](https://github.com/mark-book/markbook/blob/gh-pages/README.md) -- Bookmarking
+- [Solid POD Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) submit online form data to PODs
 
 ## Sample/Tutorial Apps
 
