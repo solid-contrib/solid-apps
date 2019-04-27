@@ -18,6 +18,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
   [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
 - [https://markbook.org Bookmark]() is for creating bookmarks. 2018 [Melvin Carvalho](https://github.com/melvincarvalho)
 - [Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) is an app to submit online form data to your Pod.Using a FormRouter Account, it is now possible to setup an online form that can route directly into a Solid Pod. This allows any person with a Solid Pod to get a copy of the form data they filled out. The submission may include a copy of the form as a PDF if so configured. This currently supports PDF, HTML and Excel form formats. (c) 2019 [FormRouter Inc](https://www.formrouter.com)
+- [Tadanime](https://pheyvaer.github.io/tadanime/index.html) helps you rate your anime series and movies. [Tadanime](https://github.com/pheyvaer/tadanime) [MIT License Copyright (c) 2018](https://github.com/pheyvaer/tadanime/blob/master/LICENSE.md) [Pieter Heyvaert](https://github.com/pheyvaer)
 
 ## Sample/Tutorial Apps
 
@@ -41,6 +42,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 ## Games
 
 - [Solid Chess](https://pheyvaer.github.io/solid-chess/) is a decentralised chess game which you can play in real time or non real time. [Solid Chess](https://github.com/pheyvaer/solid-chess)  [MIT License Copyright (c) 2018](https://github.com/pheyvaer/solid-chess/blob/master/LICENSE.md) [Pieter Heyvaert](https://github.com/pheyvaer)
+- [2048](http://webize.github.io/2048/) is a tile based game. [2048](https://github.com/webize/2048) [MIT License Copyright (c) 2016](https://github.com/webize/2048/blob/master/LICENSE) [Webize](https://github.com/webize)
 
 ## Smart agents / bots
 
@@ -78,24 +80,23 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Get tokens](https://github.com/wrmack/Get-tokens) -- demonstrates token exchanges in a native iOS app 
 - [RDF-iOS](https://github.com/wrmack/RDF-iOS) -- demonstrates accessing `rdflib.js` in iOS 
 
-## Apps that need updating
+## Historical Apps 
 
-- [Solid Signup app](https://github.com/solid/solid-signup) -- for creating
-    WebID accounts with Solid-compatible providers. databox.me is currently not accepting new users
-- [Contacts manager (for vCards)](https://github.com/linkeddata/contacts) --
-      (AngularJS, mobile friendly). Needs updating in order to work with the currently deployed version of node solid server
-- [Inbox](https://github.com/solid/solid-inbox/) -- notifications/messages app. Does not support WebID-OIDC
-- [WebID Profile editor](https://github.com/linkeddata/profile-editor) -- Does not support WebID-OIDC
-- [Tadanime](https://pheyvaer.github.io/tadanime/index.html) helps you rate your anime series and movies. [Tadanime](https://github.com/pheyvaer/tadanime) [MIT License Copyright (c) 2018](https://github.com/pheyvaer/tadanime/blob/master/LICENSE.md) [Pieter Heyvaert](https://github.com/pheyvaer);  Does not find data, unclear how to use it
-- [Cimba](https://github.com/linkeddata/cimba) -- microblogging app. Not updated for years and not working with current servers.
-- [Markdown Editor](https://github.com/melvincarvalho/markdown-editor) -- markdown
-    editor; Login not working
-- [Meeting scheduler](https://github.com/linkeddata/app-schedule) --
-    (similar to [Doodle](http://doodle.com/)); abandoned
-- [Pad](https://github.com/timbl/pad) -- collaborative notes; not updated for years
-- [Timeline](https://github.com/solid-social/timeline) -- decentralized social
-    network; only works with WebID-OIDC
-- [2048](http://webize.github.io/2048/) is a tile based game. [2048](https://github.com/webize/2048) [MIT License Copyright (c) 2016](https://github.com/webize/2048/blob/master/LICENSE) [Webize](https://github.com/webize) ; Login does not work
+
+These apps are not currently active and are listed here for historical reference. 
+
+- [Markdown Editor](https://melvincarvalho.github.com/markdown-editor) [Melvin Carvalho](https://github.com/melvincarvalho)
+- [Timeline](http://solid-social.github.io/timeline/) is a decentralised social network. [Timeline](https://github.com/solid-social/timeline) [MIT License Copyright (c) 2015](https://github.com/solid-social/timeline/blob/master/LICENSE) [Melvin Carvalho](https://github.com/melvincarvalho) 
+- [Plume](https://deiu.github.io/solid-plume) is a client side blogging platform. [Plume](https://github.com/deiu/solid-plume/) [MIT License Copyright (c) 2015](https://github.com/deiu/solid-plume/blob/gh-pages/LICENSE) [Andrei Sambra](https://github.com/deiu) 
+- [Contacts](https://linkeddata.github.io/contacts/) is an AngularJS mobile friendly app to manage your for contacts as vCards. [MIT License Copyright (c) 2015](https://github.com/linkeddata/contacts/blob/master/LICENSE) [Andrei Sambra](https://github.com/deiu) 
+- [Profile Editor](https://linkeddata.github.io/profile-editor/) is a WedID profile editor. [WebID Profile editor](https://github.com/linkeddata/profile-editor) [MIT License Copyright (c) 2015](https://github.com/linkeddata/profile-editor/blob/master/LICENSE) [Andrei Sambra](https://github.com/deiu) 
+- [Solid Signup](https://solid.github.io/solid-signup/) is an app for creating WebID accounts with Solid-compatible providers. [Solid Signup](https://github.com/solid/solid-signup) [MIT License Copyright (c) 2015](https://github.com/solid/solid-signup/blob/gh-pages/LICENSE) [Andrei Sambra](https://github.com/deiu) 
+- [Inbox](https://solid.github.io/solid-inbox/) is a messaging app. [Inbox](https://github.com/solid/solid-inbox/) [MIT License Copyright (c) 2015](https://github.com/solid/solid-inbox/blob/gh-pages/LICENSE) [Andrei Sambra](https://github.com/deiu)
+- [Warp](https://linkeddata.github.io/warp/) is a linked data file manager. [Warp](https://github.com/linkeddata/warp) [MIT License Copyright (c) 2014](https://github.com/linkeddata/warp/blob/gh-pages/LICENSE) [Andrei Sambra](https://github.com/deiu) 
+- Cimba is a microblogging app. [Cimba](https://github.com/linkeddata/cimba) [MIT License Copyright (c) 2013](https://github.com/linkeddata/cimba/blob/master/LICENSE) [Josh David Miller](https://github.com/joshdmiller) 
+-   COLD is collaborative chat application. MIT License Copyright (c) 2018 [Ramin Haderi](https://github.com/raminghaderi)
+- [Meeting Scheduler](https://linkeddata.github.io/app-schedule) is an app similar to [Doodle](http://doodle.com/). [Meeting Scheduler](https://github.com/linkeddata/app-schedule) [MIT License Copyright (c) 2014](https://github.com/linkeddata/app-schedule/blob/gh-pages/LICENSE) [Tim Berners-Lee](https://github.com/timbl)
+- [Pad](https://timbl.github.io/pad/) is for collaborative note taking. [Pad](https://github.com/timbl/pad) [MIT License Copyright (c) 2015](https://github.com/timbl/pad/blob/master/LICENSE) [Tim Berners-Lee](https://github.com/timbl)
     
 ## App Wishlist
 
