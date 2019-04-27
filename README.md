@@ -11,21 +11,6 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
   cert, saves WebID-Profile Doc (in any Solid Pod), and sets up the relations required for WebID-TLS and 
   WebID-TLS+Delegation
 
-## Developer tools / file managers
-
-- [Solid IDE](https://jeff-zucker.github.io/solid-ide/) -- file manager and IDE
-- [Solid Shell](https://github.com/jeff-zucker/solid-shell) -- command-line tool and interactive shell
-- [OpenLink Structured Data Editor (OSDE)](http://osde.openlinksw.com) -- RDF Editor with a "Save As" feature that 
-  can save content to any Solid Pod
-- [OpenLink Structured Data Sniffer (OSDS)](http://osds.openlinksw.com) -- extracts Metadata (in a variety of notations) 
-  from HTML docs and enables storage to any Solid Pod via "Save As" feature
-- [Warp](https://github.com/linkeddata/warp) -- file browser
-- [File Extractor for PODs](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) extract files from POD data
-
-## Libraries & components
-
-- [Solid authorization Widget](https://github.com/bourgeoa/solid-file-widget) -- component for webapp 
-
 ## Personal Data Apps
 
 - [Solid Focus](https://noeldemartin.github.io/solid-focus/) -- task manager app
@@ -47,25 +32,35 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Twee-Fi](https://github.com/factsmission/twee-fi) -- review claims
     and rate trustworthyness of tweets [try it out](https://factsmission.github.io/twee-fi/)
 
+## Games
+
+- [Solid Chess](https://github.com/pheyvaer/solid-chess) -- Chess game for the browser and terminal
+
 ## Smart agents / bots
 
 - [OpenLink Smart Data Bot (OSDB)](http://osdb.openlinksw.com) -- service that distills Actions from API Documentation 
   constructed using RDF or OpenAPI; supports WebID-OIDC for authentication
 
-<!-- TODO: reviewed until here -->
+## Developer tools / file managers
 
-
+- [Solid IDE](https://jeff-zucker.github.io/solid-ide/) -- file manager and IDE
+- [Solid Shell](https://github.com/jeff-zucker/solid-shell) -- command-line tool and interactive shell
+- [OpenLink Structured Data Editor (OSDE)](http://osde.openlinksw.com) -- RDF Editor with a "Save As" feature that 
+  can save content to any Solid Pod
+- [OpenLink Structured Data Sniffer (OSDS)](http://osds.openlinksw.com) -- extracts Metadata (in a variety of notations) 
+  from HTML docs and enables storage to any Solid Pod via "Save As" feature
 - [URIBurner](http://linkeddata.uriburner.com/sparql) -- SPARQL Query Service Endpoint that supports WebID-OIDC 
   for authenticating WebIDs en route to functionality that isn't granted to the un-authenticated Public; e.g., 
   "generating descriptions of any Web-Accessible Document in RDF, and publishing said description in 5-Star 
   Linked Data form"
+- [Warp](https://github.com/linkeddata/warp) -- file browser
+- [File Extractor for PODs](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) extract files from POD data
 
-## Games
+## Libraries & components
 
-- [2048](http://github.com/webize/2048) -- Tile based puzzle game 2048
-- [Solid Chess](https://github.com/pheyvaer/solid-chess) -- Chess game for the browser and terminal
+- [Solid authorization Widget](https://github.com/bourgeoa/solid-file-widget) -- component for webapp 
 
-## Experimental
+### Experimental
 
 - [Get tokens](https://github.com/wrmack/Get-tokens) -- demonstrates token exchanges in a native iOS app 
 - [RDF-iOS](https://github.com/wrmack/RDF-iOS) -- demonstrates accessing `rdflib.js` in iOS 
@@ -87,6 +82,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Pad](https://github.com/timbl/pad) -- collaborative notes; not updated for years
 - [Timeline](https://github.com/solid-social/timeline) -- decentralized social
     network; only works with WebID-OIDC
+- [2048](http://github.com/webize/2048) -- Tile based puzzle game 2048; Login does not work
     
 ## App Wishlist
 
