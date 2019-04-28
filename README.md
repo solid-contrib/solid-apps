@@ -54,7 +54,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Solid IDE - web app](https://jeff-zucker.github.io/solid-ide/) a
   file manager and IDE for Solid Pods [Solid
   IDE - github repo](https://github.com/jeff-zucker/solid-ide)
-  by [Jeff Zucker](https://github.com/jeff-zucker), [MIT License](<https://github.com/jeff-zucker/solid-ide/blob/master/LICENSE)
+  by [Jeff Zucker](https://github.com/jeff-zucker), [MIT License](https://github.com/jeff-zucker/solid-ide/blob/master/LICENSE)
 - Solid Shell is a command-line tool and interactive shell for managing Solid Pods. [Solid Shell](https://github.com/jeff-zucker/solid-shell) by [Jeff Zucker](https://github.com/jeff-zucker), [MIT License](https://github.com/jeff-zucker/solid-shell/blob/master/LICENSE) 
 - [OpenLink Structured Data Editor (OSDE)](http://osde.openlinksw.com) -- RDF Editor with a "Save As" feature that 
   can save content to any Solid Pod
