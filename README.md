@@ -23,7 +23,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 ## Sample/Tutorial Apps
 
 - [Hello World](https://melvincarvalho.github.io/helloworld/) is a Solid app. [World](Hello) [MIT License Copyright (c) 2015](https://github.com/melvincarvalho/helloworld/blob/gh-pages/LICENSE) [Melvin Carvalho](https://github.com/melvincarvalho) 
-- [SPARQL Fiddle](https://jeff-zucker.github.io/sparql-fiddle/) online fiddle to run SPARQL against Solid Pods. [Sparql Fiddle](https://github.com/jeff-zucker/sparql-fiddle) [MIT License Copyright (c) 2018 [https://github.com/jeff-zucker Jeff Zucker](https://github.com/jeff-zucker/sparql-fiddle/blob/master/LICENSE)
+- [SPARQL Fiddle - web app](https://jeff-zucker.github.io/sparql-fiddle/) online fiddle to run SPARQL against Solid Pods. [Sparql Fiddle - github repo](https://github.com/jeff-zucker/sparql-fiddle) by [Jeff Zucker][https://github.com/jeff-zucker) [MIT License](https://github.com/jeff-zucker/sparql-fiddle/blob/master/LICENSE)
 
 ## Social Media / Blogging / Collaborative Apps
 
@@ -51,13 +51,11 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 
 ## Developer tools / file managers
 
-- [Solid IDE](https://jeff-zucker.github.io/solid-ide/) web app is a
+- [Solid IDE - web app](https://jeff-zucker.github.io/solid-ide/) a
   file manager and IDE for Solid Pods [Solid
-  IDE](https://github.com/jeff-zucker/solid-ide)
-  \[<https://github.com/jeff-zucker/solid-ide/blob/master/LICENSE> MIT
-  License Copyright (c) 2018 [Jeff
-  Zucker](https://github.com/jeff-zucker)
-- Solid Shell is a command-line tool and interactive shell for managing Solid Pods. [Solid Shell](https://github.com/jeff-zucker/solid-shell) [MIT License Copyright (c) 2019](https://github.com/jeff-zucker/solid-shell/blob/master/LICENSE) [Jeff Zucker](https://github.com/jeff-zucker)
+  IDE - github repo](https://github.com/jeff-zucker/solid-ide)
+  by [Jeff Zucker](https://github.com/jeff-zucker), [MIT License](<https://github.com/jeff-zucker/solid-ide/blob/master/LICENSE)
+- Solid Shell is a command-line tool and interactive shell for managing Solid Pods. [Solid Shell](https://github.com/jeff-zucker/solid-shell) by [Jeff Zucker](https://github.com/jeff-zucker), [MIT License](https://github.com/jeff-zucker/solid-shell/blob/master/LICENSE) 
 - [OpenLink Structured Data Editor (OSDE)](http://osde.openlinksw.com) -- RDF Editor with a "Save As" feature that 
   can save content to any Solid Pod
 - [OpenLink Structured Data Sniffer (OSDS)](http://osds.openlinksw.com) -- extracts Metadata (in a variety of notations) 
