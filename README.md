@@ -68,7 +68,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
   Linked Data form"
 - [Warp](https://github.com/linkeddata/warp) -- file browser
 - [File Extractor](https://formrouter.solid.community/public/FileExtraction/) is an app to sign into your Solid Pod and extract all data. An HTML page allows your to sign in to a Solid Pod and extract a HexBin file from an RDF file there. [File Extractor](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) [MIT License Copyright (c) 2019](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction/blob/master/LICENSE) [David Conorozzo](https://github.com/dconorozzo)
-- [Solid File Manager](https://otto-aa.github.io/solid-filemanager/build/) is an Solid app that help you manages files in your Pod. [Solid File Manager](https://github.com/Otto-AA/solid-filemanager) [MIT License Copyright (c) 2019](https://github.com/Otto-AA/solid-filemanager/blob/master/LICENSE) [Otto AA](https://github.com/Otto-AA)
+- [Solid File Manager](https://otto-aa.github.io/solid-filemanager/) is an Solid app that help you manages files in your Pod. [Solid File Manager](https://github.com/Otto-AA/solid-filemanager) [MIT License Copyright (c) 2019](https://github.com/Otto-AA/solid-filemanager/blob/master/LICENSE) [Otto AA](https://github.com/Otto-AA)
 - [graphMetrix](https://graphmetrix.net/#/) allows you to browse your Solid Pod offering multiple views of information including overview, graph, doc, gallery and grid as well as easy to use Solid collaboration control and file management. 30 day free trial followed by a $10 per user/per month. 2018 [graphMetrix](https://graphmetrix.com/#/solid) 
 
 ## Libraries & components
