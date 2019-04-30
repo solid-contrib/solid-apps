@@ -11,6 +11,9 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
   cert, saves WebID-Profile Doc (in any Solid Pod), and sets up the relations required for WebID-TLS and 
   WebID-TLS+Delegation
 
+## Solid Chat 
+- [Solid Chat Challenge Apps](https://arquisoft.github.io/course1819.html#StudentProjects)
+
 ## Personal Data Apps
 
 - [Solid Focus](https://noeldemartin.github.io/solid-focus/) is an app to keep track of your to do list. [Solid Focus](https://github.com/NoelDeMartin/solid-focus) [GNU General Public License v3.0 (c) 2018](https://github.com/NoelDeMartin/solid-focus/blob/master/LICENSE) [Noel de Martin](https://github.com/NoelDeMartin)
