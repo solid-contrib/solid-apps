@@ -41,6 +41,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
   (c) 2018](https://gitlab.com/angelo-v/solid-profile-viewer/blob/master/LICENSE)
   [Angelo Veltens](https://gitlab.com/angelo-v)
 - [A-PHEVOS](https://phevos.tk) (derived from Photo, Event, Organise and Share) is an alpha version of a POD manager created by [WEBIND](https://www.webind.de/)
+- [LinkedPipes Applications](https://github.com/linkedpipes/applications) is a platform for creating your own visualizers based on LinkedData extracted from provided datasets and resources. End result is a fully functional application that can be published on a website or shared as a standalone web page. SOLID is used as a decentralized storage for storing the published applications and sharing. A live instance available at [applications.linkedpipes.com](https://applications.linkedpipes.com).
 
 ## Games
 
