@@ -4,6 +4,8 @@
 List of apps built on and/or implementing the [Solid platform](https://github.com/solid/solid-spec). 
 [Add yours!](https://github.com/solid/solid-apps/blob/master/How-to-add-an-App.md)
 
+-[Solidbase](https://app.solidbase.info) - The solidbase application is a budgeting planning and presentation environment developed as an educational tool for building accounting capacities for coordinators of initiatives out of the social and solidarity economy, first of all from the food sector.
+
 ## Registration / Sign up / Identity
 
 - [Find Solid Pods](https://findsolidpods.com)
