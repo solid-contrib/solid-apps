@@ -86,4 +86,4 @@ These apps are not currently active or were built experimentally and are listed 
 * [Get tokens](https://github.com/wrmack/Get-tokens) -- demonstrates token exchanges in a native iOS app 
 * [RDF-iOS](https://github.com/wrmack/RDF-iOS) -- demonstrates accessing `rdflib.js` in iOS 
     
-To read or to add to the Solid app wishlist go to the [roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md]
+To read or to add to the Solid app wishlist go to the [roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)
