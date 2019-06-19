@@ -4,7 +4,8 @@
 List of apps built on and/or implementing the [Solid platform](https://github.com/solid/solid-spec). 
 [Add yours!](https://github.com/solid/solid-apps/blob/master/How-to-add-an-App.md)
 
--[Solidbase](https://app.solidbase.info) - The solidbase application is a budgeting planning and presentation environment developed as an educational tool for building accounting capacities for coordinators of initiatives out of the social and solidarity economy, first of all from the food sector.
+- [Solidbase](https://app.solidbase.info) - The solidbase application is a budgeting planning and presentation environment developed as an educational tool for building accounting capacities for coordinators of initiatives out of the social and solidarity economy, first of all from the food sector.
+- [Solid Notify](https://solid-notify.5apps.com)
 
 ## Registration / Sign up / Identity
 
@@ -21,7 +22,9 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Solid Focus](https://noeldemartin.github.io/solid-focus/) is an app to keep track of your to do list. [Solid Focus](https://github.com/NoelDeMartin/solid-focus) [GNU General Public License v3.0 (c) 2018](https://github.com/NoelDeMartin/solid-focus/blob/master/LICENSE) [Noel de Martin](https://github.com/NoelDeMartin)
 - [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki) is a Solid Pod store. [Tiddlywiki](https://github.com/bourgeoa/tiddlywiki-node-solid-server) [MIT License Copyright (c) 2019](https://github.com/bourgeoa/tiddlywiki-node-solid-server/blob/master/LICENSE) [Alain Bourgeois](https://github.com/bourgeoa)
   [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
-- [MarkBook](https://markbook.org) is for creating bookmarks. 2018 [Melvin Carvalho](https://github.com/melvincarvalho)
+- [Mark Book](https://markbook.org) is for creating bookmarks. 2018 [Melvin Carvalho](https://github.com/melvincarvalho)
+  [github](https://github.com/melvincarvalho/solid-bookmark)
+
 - [Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) is an app to submit online form data to your Pod.Using a FormRouter Account, it is now possible to setup an online form that can route directly into a Solid Pod. This allows any person with a Solid Pod to get a copy of the form data they filled out. The submission may include a copy of the form as a PDF if so configured. This currently supports PDF, HTML and Excel form formats. (c) 2019 [FormRouter Inc](https://www.formrouter.com)
 - [Tadanime](https://pheyvaer.github.io/tadanime/index.html) helps you rate your anime series and movies. [Tadanime](https://github.com/pheyvaer/tadanime) [MIT License Copyright (c) 2018](https://github.com/pheyvaer/tadanime/blob/master/LICENSE.md) [Pieter Heyvaert](https://github.com/pheyvaer)
 
@@ -71,7 +74,8 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Warp](https://github.com/linkeddata/warp) -- file browser
 - [File Extractor](https://formrouter.solid.community/public/FileExtraction/) is an app to sign into your Solid Pod and extract all data. An HTML page allows your to sign in to a Solid Pod and extract a HexBin file from an RDF file there. [File Extractor](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) [MIT License Copyright (c) 2019](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction/blob/master/LICENSE) [David Conorozzo](https://github.com/dconorozzo)
 - [Solid File Manager](https://otto-aa.github.io/solid-filemanager/) is an Solid app that help you manages files in your Pod. [Solid File Manager](https://github.com/Otto-AA/solid-filemanager) [MIT License Copyright (c) 2019](https://github.com/Otto-AA/solid-filemanager/blob/master/LICENSE) [Otto AA](https://github.com/Otto-AA)
-- [graphMetrix](https://graphmetrix.net/#/) allows you to browse your Solid Pod offering multiple views of information including overview, graph, doc, gallery and grid as well as easy to use Solid collaboration control and file management. 30 day free trial followed by a $10 per user/per month. 2018 [graphMetrix](https://graphmetrix.com/#/solid) 
+- [graphMetrix](https://graphmetrix.net/#/) allows you to browse your Solid Pod offering multiple views of information including overview, graph, doc, gallery and grid as well as easy to use Solid collaboration control and file management. 30 day free trial followed by a $10 per user/per month. 2018 [graphMetrix](https://graphmetrix.com/#/solid)
+- [Solid Notify](https://solid-notify.5apps.com/) sends you a desktop notification when a Solid resource changes. Pending resolution of https://github.com/solid/node-solid-server/issues/1221 it still requires you to fill in the Updates-Via URL yourself. Supports adding e.g. `#resource=https://michielbdejong.inrupt.net/public/` to the URL to prefill the URL input.
 
 ## Libraries & components
 
@@ -83,7 +87,6 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [RDF-iOS](https://github.com/wrmack/RDF-iOS) -- demonstrates accessing `rdflib.js` in iOS 
 
 ## Historical Apps 
-
 
 These apps are not currently active and are listed here for historical reference. 
 
