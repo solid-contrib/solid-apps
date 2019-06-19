@@ -8,6 +8,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Solid Notify](https://solid-notify.5apps.com)
 - [Poddit](https://vincenttunru.gitlab.io/poddit/). Vincent Tunru.
 - [Taisukef](https://taisukef.github.io/solid-addfriend/) add friends
+- [Firefly-iii](https://github.com/firefly-iii/firefly-iii) finance manager
 
 ## Registration / Sign up / Identity
 
@@ -53,7 +54,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 
 - [Solid POD Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) :moneybag: submit online form data to PODs using FormRouter.com
 
-## Explanation of labels (emojis)
+## Explanation of labels
 
 - Moneybag is part of a paid service
 - [Dokieli](https://dokie.li) is a client side editor for decentralised article publishing, annotations, and social interactions. [Dokieli](https://github.com/linkeddata/dokieli) [Apache License v2.0 2012](https://github.com/linkeddata/dokieli/blob/master/LICENSE) [Sarven Capadisli](https://github.com/csarven)
