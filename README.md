@@ -4,8 +4,8 @@
 List of apps built on and/or implementing the [Solid platform](https://github.com/solid/solid-spec). 
 [Add yours!](https://github.com/solid/solid-apps/blob/master/How-to-add-an-App.md)
 
--[Solidbase](https://app.solidbase.info) - The solidbase application is a budgeting planning and presentation environment developed as an educational tool for building accounting capacities for coordinators of initiatives out of the social and solidarity economy, first of all from the food sector.
- - [Solid Notify](https://solid-notify.5apps.com)
+- [Solidbase](https://app.solidbase.info) - The solidbase application is a budgeting planning and presentation environment developed as an educational tool for building accounting capacities for coordinators of initiatives out of the social and solidarity economy, first of all from the food sector.
+- [Solid Notify](https://solid-notify.5apps.com)
 
 ## Registration / Sign up / Identity
 
@@ -22,7 +22,8 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [Solid Focus](https://noeldemartin.github.io/solid-focus/) is an app to keep track of your to do list. [Solid Focus](https://github.com/NoelDeMartin/solid-focus) [GNU General Public License v3.0 (c) 2018](https://github.com/NoelDeMartin/solid-focus/blob/master/LICENSE) [Noel de Martin](https://github.com/NoelDeMartin)
 - [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki) is a Solid Pod store. [Tiddlywiki](https://github.com/bourgeoa/tiddlywiki-node-solid-server) [MIT License Copyright (c) 2019](https://github.com/bourgeoa/tiddlywiki-node-solid-server/blob/master/LICENSE) [Alain Bourgeois](https://github.com/bourgeoa)
   [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
-- [https://markbook.org Bookmark]() is for creating bookmarks. 2018 [Melvin Carvalho](https://github.com/melvincarvalho)
+- [Mark Book](https://markbook.org) is for creating bookmarks. 2018 [Melvin Carvalho](https://github.com/melvincarvalho)
+  [github](https://github.com/melvincarvalho/solid-bookmark)
 - [Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) is an app to submit online form data to your Pod.Using a FormRouter Account, it is now possible to setup an online form that can route directly into a Solid Pod. This allows any person with a Solid Pod to get a copy of the form data they filled out. The submission may include a copy of the form as a PDF if so configured. This currently supports PDF, HTML and Excel form formats. (c) 2019 [FormRouter Inc](https://www.formrouter.com)
 - [Tadanime](https://pheyvaer.github.io/tadanime/index.html) helps you rate your anime series and movies. [Tadanime](https://github.com/pheyvaer/tadanime) [MIT License Copyright (c) 2018](https://github.com/pheyvaer/tadanime/blob/master/LICENSE.md) [Pieter Heyvaert](https://github.com/pheyvaer)
 
@@ -84,7 +85,6 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 - [RDF-iOS](https://github.com/wrmack/RDF-iOS) -- demonstrates accessing `rdflib.js` in iOS 
 
 ## Historical Apps 
-
 
 These apps are not currently active and are listed here for historical reference. 
 
