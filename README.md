@@ -19,12 +19,23 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 
 ## Personal Data Apps
 
+- [Contacts manager (for vCards)](https://github.com/linkeddata/contacts)
+    (AngularJS, mobile friendly)
+- [File Extractor for PODs](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) extract files from POD data
+- [Inbox](https://github.com/solid/solid-inbox/) notifications/messages app
+- [Solid Signup app](https://github.com/solid/solid-signup) for creating
+    WebID accounts with Solid-compatible providers
+- [Solid IDE](https://jeff-zucker.github.io/solid-ide/) file manager and IDE
+- [Solid Shell](https://github.com/jeff-zucker/solid-shell) command-line tool and interactive shell
+- [Solid authorization Widget](https://github.com/bourgeoa/solid-file-widget) component for webapp 
+- [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki/) with Solid syncadaptor [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
+- [Warp](https://github.com/linkeddata/warp) file browser
+- [WebID Profile editor](https://github.com/linkeddata/profile-editor)
 - [Solid Focus](https://noeldemartin.github.io/solid-focus/) is an app to keep track of your to do list. [Solid Focus](https://github.com/NoelDeMartin/solid-focus) [GNU General Public License v3.0 (c) 2018](https://github.com/NoelDeMartin/solid-focus/blob/master/LICENSE) [Noel de Martin](https://github.com/NoelDeMartin)
 - [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki) is a Solid Pod store. [Tiddlywiki](https://github.com/bourgeoa/tiddlywiki-node-solid-server) [MIT License Copyright (c) 2019](https://github.com/bourgeoa/tiddlywiki-node-solid-server/blob/master/LICENSE) [Alain Bourgeois](https://github.com/bourgeoa)
   [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
 - [Mark Book](https://markbook.org) is for creating bookmarks. 2018 [Melvin Carvalho](https://github.com/melvincarvalho)
   [github](https://github.com/melvincarvalho/solid-bookmark)
-
 - [Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) is an app to submit online form data to your Pod.Using a FormRouter Account, it is now possible to setup an online form that can route directly into a Solid Pod. This allows any person with a Solid Pod to get a copy of the form data they filled out. The submission may include a copy of the form as a PDF if so configured. This currently supports PDF, HTML and Excel form formats. (c) 2019 [FormRouter Inc](https://www.formrouter.com)
 - [Tadanime](https://pheyvaer.github.io/tadanime/index.html) helps you rate your anime series and movies. [Tadanime](https://github.com/pheyvaer/tadanime) [MIT License Copyright (c) 2018](https://github.com/pheyvaer/tadanime/blob/master/LICENSE.md) [Pieter Heyvaert](https://github.com/pheyvaer)
 
@@ -35,6 +46,14 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
 
 ## Social Media / Blogging / Collaborative Apps
 
+
+## Form generation
+
+- [Solid POD Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) :moneybag: submit online form data to PODs using FormRouter.com
+
+## Explanation of labels (emojis)
+
+- Moneybag is part of a paid service
 - [Dokieli](https://dokie.li) is a client side editor for decentralised article publishing, annotations, and social interactions. [Dokieli](https://github.com/linkeddata/dokieli) [Apache License v2.0 2012](https://github.com/linkeddata/dokieli/blob/master/LICENSE) [Sarven Capadisli](https://github.com/csarven)
 - [Plume](https://github.com/theWebalyst/solid-plume/) -- client side blogging platform. [How to deploy](https://thewebalyst.solid.community/plume/?post=https%3A%2F%2Fthewebalyst.solid.community%2Fpublic%2Fposts%2F%2F1555171264494-how-to-deploy-plume-blog-on-your-solid-pod.ttl%23%23%23%23%23%23%23%23%23%23%23%23%23%23)
 - [Twee-Fi](https://factsmission.github.io/twee-fi/) helps you review claims and rate trustworthiness of tweets. [Twee-Fi](https://github.com/factsmission/twee-fi) [MIT License Copyright (c) 2018](https://github.com/factsmission/twee-fi/blob/master/LICENSE) [FactsMission](https://factsmission.com)
