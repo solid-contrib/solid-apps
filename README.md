@@ -54,6 +54,7 @@ List of apps built on and/or implementing the [Solid platform](https://github.co
     network
 - [Twee-Fi](https://github.com/factsmission/twee-fi) -- review claims
     and rate trustworthyness of tweets [try it out](https://factsmission.github.io/twee-fi/)
+- [Spoggy](http://spoggy.herokuapp.com/) Create and view RDF graphs to export into your Pod. See [tutorial](https://www.youtube.com/watch?v=5BHIoRyPIWc&list=PLmnJTs7YASPO61OzacKf4atmLObMFMD3m) [Spoggy](https://github.com/scenaristeur/heroku-spoggy/)
 - [URIBurner](http://linkeddata.uriburner.com/sparql) -- SPARQL Query Service Endpoint that supports WebID-OIDC 
   for authenticating WebIDs en route to functionality that isn't granted to the un-authenticated Public; e.g., 
   "generating descriptions of any Web-Accessible Document in RDF, and publishing said description in 5-Star 
