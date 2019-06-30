@@ -33,8 +33,8 @@ Chronological list of apps built on and/or implementing the [Solid specification
 * [URIBurner](http://linkeddata.uriburner.com/sparql) SPARQL Query Service Endpoint that supports WebID-OIDC 
   for authenticating WebIDs en route to functionality that isn't granted to the un-authenticated Public; e.g., 
   "generating descriptions of any Web-Accessible Document in RDF, and publishing said description in 5-Star 
-  Linked Data form" (c) 2019 [OpenLink Software](http://www.openlinksw.com)
 * [Solid Pod Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) © 2001 -2019 [FormRouter Inc](https://www.formrouter.com). 
+  Linked Data form" (c) 2019 [OpenLink Software](http://www.openlinksw.com)
 * [File Extractor](https://formrouter.solid.community/public/FileExtraction/) is an app to sign into your Pod and extract all data. An HTML page allows your to sign in to a Solid Pod and extract a HexBin file from an RDF file there. [Source code](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) [MIT License Copyright (c) 2019](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction/blob/master/LICENSE) [David Conorozzo](https://github.com/dconorozzo)
 * [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki) is a Pod store. [Source code](https://github.com/bourgeoa/tiddlywiki-node-solid-server) [MIT License Copyright (c) 2019](https://github.com/bourgeoa/tiddlywiki-node-solid-server/blob/master/LICENSE) [Alain Bourgeois](https://github.com/bourgeoa)
   [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
