@@ -5,6 +5,7 @@ Chronological list of apps built on and/or implementing the [Solid specification
 
 [Read instructions on how to add your Solid app to this list](https://github.com/solid/solid-apps/blob/master/How-to-add-an-App.md)
 
+* [ODS-Briefcase](http://ods.openlinksw.com/wiki/ODS/OdsBriefcase) -- a module of [OpenLink Data Spaces (ODS)](http://ods.openlinksw.com/wiki/ODS/), ODS-Briefcase includes [Dynamic Extended Type (DET) WebDAV/LDP Folder](https://medium.com/virtuoso-blog/d25ab3dd27d9) support for Solid Pods, enabling read/write access for any WebDAV-compliant client, subject to Briefcase-managed ACLs. (Briefcase connects to the Pod as the Pod Owner, so has full privileges.) (c) 2019 [OpenLink Software](http://www.openlinksw.com)
 * [Poddit](https://vincenttunru.gitlab.io/poddit/). 2019. Vincent Tunru.
 * [Dechat_en1b](https://arquisoft.github.io/dechat_en1b/) Solid chat. [Source code](https://github.com/Arquisoft/dechat_en1b) [MIT License Copyright (c) 2019](https://github.com/Arquisoft/dechat_en1b/blob/master/LICENSE) [Licensors](https://github.com/Arquisoft/dechat_en1b/graphs/contributors)
 * [Dechat_en2a](https://arquisoft.github.io/dechat_en2a/) Solid chat.[Source code](https://github.com/Arquisoft/dechat_en2a) [MIT License Copyright (c) 2019](https://github.com/Arquisoft/dechat_en2a/blob/master/LICENSE)[Licensors](https://github.com/Arquisoft/dechat_en2a/graphs/contributors)
@@ -24,15 +25,16 @@ Chronological list of apps built on and/or implementing the [Solid specification
 * [Solid authorization Widget](https://bourgeoa.solid.community/public/solid-file-widget/)component for webapp [Source code](https://github.com/bourgeoa/solid-file-widget) [MIT License Copyright (c) 2019](https://github.com/bourgeoa/solid-file-widget/blob/master/LICENSE) [Bourgeoa](https://github.com/bourgeoa) 
 * [Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) is an app to submit online form data to your Pod. Using a FormRouter Account, it is now possible to setup an online form that can route directly into a Solid Pod. This allows any person with a Solid Pod to get a copy of the form data they filled out. The submission may include a copy of the form as a PDF if so configured. This currently supports PDF, HTML and Excel form formats. (c) 2019 [FormRouter Inc](https://www.formrouter.com)
 * [Solid File Manager](https://otto-aa.github.io/solid-filemanager/) is an Solid app that help you manages files in your Pod. [Source code](https://github.com/Otto-AA/solid-filemanager) [MIT License Copyright (c) 2019](https://github.com/Otto-AA/solid-filemanager/blob/master/LICENSE) [Otto AA](https://github.com/Otto-AA)
-* [OpenLink Smart Data Bot (OSDB)](http://osdb.openlinksw.com) distills actions from API documentation constructed using RDF or OpenAPI; supports WebID-OIDC for authentication (c) 2019 [OpenLink](http://www.openlinksw.com)
+* [OpenLink Smart Data Bot (OSDB)](http://osdb.openlinksw.com) distills actions from API documentation constructed using RDF or OpenAPI; supports WebID-OIDC for authentication (c) 2019 [OpenLink Software](http://www.openlinksw.com)
 * [Solid Shell](https://github.com/jeff-zucker/solid-shell) command-line tool and interactive shell. [Source code](https://github.com/jeff-zucker/solid-shell) [MIT License Copyright (c) 2019](https://github.com/jeff-zucker/solid-shell/blob/master/LICENSE) [Jeff Zucker](https://github.com/jeff-zucker)
-* [OpenLink Structured Data Editor (OSDE)](http://osde.openlinksw.com) RDF editor that can save content to any Solid Pod. (c) 2019 [OpenLink](http://www.openlinksw.com)  
+* [OpenLink Structured Data Editor (OSDE)](http://osde.openlinksw.com) RDF editor that can save content to any Solid Pod. (c) 2019 [OpenLink Software](http://www.openlinksw.com)  
 * [OpenLink Structured Data Sniffer (OSDS)](http://osds.openlinksw.com) extracts Metadata in a variety of notations 
-  from HTML docs and enables storage to any Solid Pod via "Save As" feature. (c) 2019 [OpenLink](http://www.openlinksw.com)
+  from HTML docs and enables storage to any Solid Pod via "Save As" feature. (c) 2019 [OpenLink Software](http://www.openlinksw.com)
 * [URIBurner](http://linkeddata.uriburner.com/sparql) SPARQL Query Service Endpoint that supports WebID-OIDC 
   for authenticating WebIDs en route to functionality that isn't granted to the un-authenticated Public; e.g., 
   "generating descriptions of any Web-Accessible Document in RDF, and publishing said description in 5-Star 
-  Linked Data form" (c) 2019 [OpenLink](http://www.openlinksw.com)
+* [Solid Pod Form Integration](https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm) © 2001 -2019 [FormRouter Inc](https://www.formrouter.com). 
+  Linked Data form" (c) 2019 [OpenLink Software](http://www.openlinksw.com)
 * [File Extractor](https://formrouter.solid.community/public/FileExtraction/) is an app to sign into your Pod and extract all data. An HTML page allows your to sign in to a Solid Pod and extract a HexBin file from an RDF file there. [Source code](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction) [MIT License Copyright (c) 2019](https://github.com/dconorozzo/Solid-RDF-HexBin-File-Extraction/blob/master/LICENSE) [David Conorozzo](https://github.com/dconorozzo)
 * [Tiddlywiki](https://bourgeoa.solid.community/public/tiddlywiki) is a Pod store. [Source code](https://github.com/bourgeoa/tiddlywiki-node-solid-server) [MIT License Copyright (c) 2019](https://github.com/bourgeoa/tiddlywiki-node-solid-server/blob/master/LICENSE) [Alain Bourgeois](https://github.com/bourgeoa)
   [github](https://github.com/bourgeoa/tiddlywiki-node-solid-server)
