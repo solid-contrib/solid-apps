@@ -5,6 +5,7 @@ Chronological list of apps built on and/or implementing the [Solid specification
 
 [Read instructions on how to add your Solid app to this list](https://github.com/solid/solid-apps/blob/master/How-to-add-an-App.md)
 
+* [Referendum Signons](https://referendum.signons.fr)
 * [Solid React SDK by inrupt](https://github.com/inrupt/solid-react-sdk) is a combination of libraries, components, documentation, best practices, and an application [generator](https://generator.inrupt.com) meant to accelerate the development of high-quality Solid applications. [Source code](https://github.com/inrupt/generator-solid-react) [MIT License](https://github.com/inrupt/solid-react-sdk/blob/master/LICENSE.md) Copyright (c) 2019 [inrupt, inc.](https://inrupt.com/)
 * [ODS-Briefcase](http://ods.openlinksw.com/wiki/ODS/OdsBriefcase) -- a module of [OpenLink Data Spaces (ODS)](http://ods.openlinksw.com/wiki/ODS/), ODS-Briefcase includes [Dynamic Extended Type (DET) WebDAV/LDP Folder](https://medium.com/virtuoso-blog/d25ab3dd27d9) support for Solid Pods, enabling read/write access for any WebDAV-compliant client, subject to Briefcase-managed ACLs. (Briefcase connects to the Pod as the Pod Owner, so has full privileges.) (c) 2019 [OpenLink Software](http://www.openlinksw.com)
 * [Poddit](https://vincenttunru.gitlab.io/poddit/). 2019. Vincent Tunru.
