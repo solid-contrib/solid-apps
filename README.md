@@ -5,6 +5,7 @@ Chronological list of apps built on and/or implementing the [Solid specification
 
 [Read instructions on how to add your Solid app to this list](https://github.com/solid/solid-apps/blob/master/How-to-add-an-App.md)
 
+* [Solid Calendar](https://bitbucket.org/dylanmartin/solidcalendar/src/master/) is a way to create, store, and query events using a user's card. 2019. Dylan Martin.
 * [Referendum Signons](https://referendum.signons.fr)
 * [Solid React SDK by inrupt](https://github.com/inrupt/solid-react-sdk) is a combination of libraries, components, documentation, best practices, and an application [generator](https://generator.inrupt.com) meant to accelerate the development of high-quality Solid applications. [Source code](https://github.com/inrupt/generator-solid-react) [MIT License](https://github.com/inrupt/solid-react-sdk/blob/master/LICENSE.md) Copyright (c) 2019 [inrupt, inc.](https://inrupt.com/)
 * [ODS-Briefcase](http://ods.openlinksw.com/wiki/ODS/OdsBriefcase) -- a module of [OpenLink Data Spaces (ODS)](http://ods.openlinksw.com/wiki/ODS/), ODS-Briefcase includes [Dynamic Extended Type (DET) WebDAV/LDP Folder](https://medium.com/virtuoso-blog/d25ab3dd27d9) support for Solid Pods, enabling read/write access for any WebDAV-compliant client, subject to Briefcase-managed ACLs. (Briefcase connects to the Pod as the Pod Owner, so has full privileges.) (c) 2019 [OpenLink Software](http://www.openlinksw.com)
@@ -47,7 +48,6 @@ Chronological list of apps built on and/or implementing the [Solid specification
 * [Solid Profile Viewer](https://profiles.veltens.org) is a react app to view and browse Solid WebID profiles. [Source code](https://gitlab.com/angelo-v/solid-profile-viewer) [MIT License Copyright (c) 2018](https://gitlab.com/angelo-v/solid-profile-viewer/blob/master/LICENSE)[Angelo Veltens](https://gitlab.com/angelo-v)
 * [LinkedPipes Applications](https://applications.linkedpipes.com) create your own visualisers based on linked data. [Source code](https://github.com/linkedpipes/applications) [Apache License 2.0 (c) 2018](https://github.com/linkedpipes/applications/blob/master/LICENSE) [Jakub Klimek](https://github.com/jakubklimek)
 * [Taisukef](https://taisukef.github.io/solid-addfriend/) add friends. [Source code](https://github.com/taisukef/solid-addfriend/tree/master). 2018. [Taisuke Fukuno](https://github.com/taisukef). 
-  
 * [Solidbase](https://app.solidbase.info) agricultural project management. [Souce code] (https://lab.allmende.io/solidbase/solidbase) [GNU AGPL3 (c) 2017](https://lab.allmende.io/solidbase/solidbase/blob/master/LICENSE). [Allmende Lab](https://lab.allmende.io)
 * [Firefly-iii](https://github.com/firefly-iii/firefly-iii) finance manager. [Source code](https://github.com/firefly-iii/firefly-iii). [GNU General Public License v3.0 9c0 2017](https://github.com/firefly-iii/firefly-iii/blob/master/LICENSE) [James Cole](https://github.com/JC5) 
 * [OpenLink YouID](http://youid.openlinksw.com) identity and credentials document generator that creates X.509 certificates and saves WebID-Profile documents in any Solid Pod and sets up the relations required for WebID-TLS and WebID-TLS+Delegation. Copyright © 2013-2016 [OpenLink Software Inc](http://openlinksw.com).
@@ -82,5 +82,6 @@ These apps are not currently active or were built experimentally and are listed 
 * [Pad](https://timbl.github.io/pad/) is for collaborative note taking. [Pad](https://github.com/timbl/pad) [MIT License Copyright (c) 2015](https://github.com/timbl/pad/blob/master/LICENSE) [Tim Berners-Lee](https://github.com/timbl)
 * [Get tokens](https://github.com/wrmack/Get-tokens) -- demonstrates token exchanges in a native iOS app 
 * [RDF-iOS](https://github.com/wrmack/RDF-iOS) -- demonstrates accessing `rdflib.js` in iOS 
-    
+  
+
 To read or to add to the Solid app wishlist go to the [roadmap](https://github.com/solid/information/blob/master/solid-roadmap.md)
