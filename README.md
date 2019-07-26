@@ -5,6 +5,7 @@ Chronological list of apps built on and/or implementing the [Solid specification
 
 [Read instructions on how to add your Solid app to this list](https://github.com/solid/solid-apps/blob/master/How-to-add-an-App.md)
 
+* [SolidVC](https://github.com/kezike/solid-vc) is a [Verifiable Credentials](https://w3c.github.io/vc-data-model/) framework developed within the context of Solid | [Source Code](https://github.com/kezike/solid-vc) | [MIT License Copyright (c) 2018](https://github.com/kezike/solid-vc/blob/master/LICENSE) [Kayode Ezike](https://github.com/kezike)
 * [Solid Calendar](https://bitbucket.org/dylanmartin/solidcalendar/src/master/) is a way to create, store, and query events using a user's card. 2019. Dylan Martin.
 * [Referendum Signons](https://referendum.signons.fr)
 * [Solid React SDK by inrupt](https://github.com/inrupt/solid-react-sdk) is a combination of libraries, components, documentation, best practices, and an application [generator](https://generator.inrupt.com) meant to accelerate the development of high-quality Solid applications. [Source code](https://github.com/inrupt/generator-solid-react) [MIT License](https://github.com/inrupt/solid-react-sdk/blob/master/LICENSE.md) Copyright (c) 2019 [inrupt, inc.](https://inrupt.com/)
