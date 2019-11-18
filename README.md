@@ -65,6 +65,9 @@ Chronological list of apps built on and/or implementing the [Solid specification
 * [A-PHEVOS](https://phevos.tk) (derived from Photo, Event, Organise and Share) is an alpha version of a Pod manager created by [WEBIND](https://www.webind.de/)
 * [Solid Notify](https://solid-notify.5apps.com/) sends you a desktop notification when a Solid resource changes. 
 * [Find Solid Pods](https://findsolidpods.com). [James Cole](https://github.com/JC5). 
+* [OChat](https://chat.o.team) a chat app
+* [OEdit](https://edit.o.team) an editor app for raw files using the vs interface.
+
 
 # Historical and Experimental Apps 
 
